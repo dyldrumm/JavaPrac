@@ -8,6 +8,6 @@ public class Basics {
 
         System.out.println("User input was: " + userIn);
 
-        //Commit test #2
+        //Commit test #3
     }
 }
